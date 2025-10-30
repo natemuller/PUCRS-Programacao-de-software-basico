@@ -8,6 +8,6 @@ Desenvolver a lógica e fundamentos da programação estruturada utilizando a li
 ---
 
 ## 🧩 Estrutura do repositório
-- **Listas de exercícios:** resoluções das 6 listas propostas ao longo do semestre.  
+- **Listas de exercícios:** resoluções de 6 listas propostas ao longo do semestre.  
 - **Trabalho final:** projeto prático em linguagem C, consolidando o conteúdo aprendido.
 
